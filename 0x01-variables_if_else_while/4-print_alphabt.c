@@ -3,7 +3,7 @@
 /**
  *main - Program to print all alphabets except q and e
  *
- *Return: return 0
+ *Return : return 0
 */
 int main(void)
 {

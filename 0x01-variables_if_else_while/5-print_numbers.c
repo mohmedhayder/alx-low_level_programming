@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry point
+ *main - Program to print all numbers from 0 to 9
  *
- * Return : return 0
+ *Return : return 0
 */
 int main(void)
 {
