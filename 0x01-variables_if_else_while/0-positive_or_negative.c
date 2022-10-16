@@ -4,9 +4,9 @@
 /* more headers goes there */
 
 /**
- * main - Entry point
- * Description: 'program to check the positvie and negative and zero'
- * Return: Always 0 (Success)
+ *main - Entry point
+ *Description: 'program to check the positvie and negative and zero'
+ *Return: Always 0 (Success)
 */
 int main(void)
 {
