@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
- *main - Program to print all numbers from 0 to 9
+ * main - Program to print all numbers from 0 to 9
  *
- *Return : return 0
+ * Return : Return 0
 */
 int main(void)
 {
