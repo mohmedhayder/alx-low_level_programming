@@ -5,9 +5,9 @@
 /* more headers goes there */
 
 /**
- *main - Entry point
+ * main - Entry point
  *
- *Rturn: Always 0 (success)
+ * Rturn: Always 0 (success)
 */
 int main(void)
 {
