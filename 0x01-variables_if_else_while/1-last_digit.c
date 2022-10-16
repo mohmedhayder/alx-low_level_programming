@@ -7,6 +7,7 @@
 /**
  * main - Entry point
  * Description: Prints the last digit of random number and
+ * check if its 0 or greater than 5 or between 1-6
  * Rturn : Always 0 (success)
 */
 int main(void)
