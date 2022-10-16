@@ -7,7 +7,7 @@
 /**
  *main - Entry point
  *
- *Rturn : Always 0 (success)
+ *Rturn: Always 0 (success)
 */
 int main(void)
 {
