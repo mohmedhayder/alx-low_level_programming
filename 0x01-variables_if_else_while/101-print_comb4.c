@@ -2,7 +2,7 @@
 
 /**
  * main - Prints all combinations of three digits
- * 
+ *
  * Return: return 0
 */
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 				putchar((n2 % 10) + '0');
 				putchar((n3 % 10) + '0');
 
-				if (n1 == 7 && n2 == 8 && n3 ==9)
+				if (n1 == 7 && n2 == 8 && n3 == 9)
 				{
 					continue;
 				}
