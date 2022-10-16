@@ -10,7 +10,7 @@ int main(void)
 {
 	int hex;
 
-	for(hex = 48; hex < 58; hex++)
+	for (hex = 48; hex < 58; hex++)
 	{
 		putchar(hex);
 	}
