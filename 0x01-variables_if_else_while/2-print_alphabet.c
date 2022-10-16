@@ -2,7 +2,7 @@
 #include <ctype.h>
 /**
  * main - protgtam to print alphabet letter in lowercase
- * 
+ *
  * Return: return 0
 */
 int main(void)
