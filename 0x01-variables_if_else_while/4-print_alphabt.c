@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *main - Program to print all alphabets except q and e
+ * main - Program to print all alphabets except q and e
  *
  *Return : return 0
 */
