@@ -2,7 +2,7 @@
 
 /**
  * main - Prints all combinations of two digits with,
- * 
+ *
  * Return: returns 0
 */
 int main(void)
@@ -18,7 +18,6 @@ int main(void)
 
 			if (digit1 == 8 && digit2 == 9)
 				continue;
-			
 			putchar(',');
 			putchar(' ');
 		}
