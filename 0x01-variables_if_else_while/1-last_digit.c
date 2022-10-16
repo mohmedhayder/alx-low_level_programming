@@ -5,8 +5,8 @@
 /* more headers goes there */
 
 /** 
- * main - Prints the last digit of random number and check if its 0 or greater than 5 or between 1-6
- * 
+ * main - Entry point
+ * Description: Prints the last digit of random number and check if its 0 or greater than 5 or between 1-6
  * Rturn : Rturn 0
 */
 int main(void)
@@ -18,7 +18,7 @@ int main(void)
 	n = rand() - RAND_MAX /2;
 	last = n % 10;
 
-	if (last ==0)
+	if (last == 0)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, last);
 	}
