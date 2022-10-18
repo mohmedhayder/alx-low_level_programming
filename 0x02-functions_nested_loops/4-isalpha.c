@@ -8,6 +8,7 @@
 int _isalpha(int c)
 {
 	int i = 'a';
+	
 	for (i = 'a'; i <= 'Z'; i++)
 	{
 		if (c == i)
