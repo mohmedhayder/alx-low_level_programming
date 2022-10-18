@@ -8,5 +8,6 @@
 int add(int first_number, int second_number)
 {
 	int result = first_number + second_number;
+	
 	return (result);
 }
