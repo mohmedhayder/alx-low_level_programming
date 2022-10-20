@@ -5,7 +5,6 @@
  * Retuen: returns 1 if the charcter is upper case
  * returns 0 otherwise
 */
-
 int _isupper(int c)
 {
 	int i;
