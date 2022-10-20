@@ -15,7 +15,7 @@ void more_numbers(void)
 
 		while (j <= 14)
 		{
-			char c;
+			char c = j;
 
 			if (j > 9)
 			{
