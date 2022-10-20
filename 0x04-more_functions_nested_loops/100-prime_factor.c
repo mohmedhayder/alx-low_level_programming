@@ -2,7 +2,7 @@
 
 /**
  * main - calculate largest prime of 612852475143
- * 
+ *
  * Return: Always 0
 */
 
