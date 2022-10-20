@@ -2,7 +2,7 @@
 /**
  * _isdigit - checks if c is a digit or not
  * @c: variable passed to the funtion
- * Retuen: Returns 1 if c is a digit
+ * Return: Returns 1 if c is a digit
  * returns 0 otherwise
 */
 int _isdigit(int c)
