@@ -2,7 +2,7 @@
 
 /**
  * _strcmp - Function which compare two strings
- * @S1: first string
+ * @s1: first string
  * @s2: second stirng
  * Return: returns zero if s1 == s2,
  * returns negative number if s1 < s2,
