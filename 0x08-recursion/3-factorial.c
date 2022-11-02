@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * factorial - search for a factorial of a number
- * @n: the number to find factorial of 
+ * @n: the number to find factorial of
  * Return: the factorial of a number
 */
 
