@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * is_palindorme - returns tru if the given string is a palindorme
+ * is_palindrome - returns tru if the given string is a palindorme
  * @s: string to check
  * Return: true if the given string is a palindorme
 */
-int is_palindorme(char *s)
+int is_palindrome(char *s)
 {
 	int index = 0;
 	int len = find_strlen(s);
