@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "main.h"
 /**
 *_strchr - Returns a pointer to the first occurrence
