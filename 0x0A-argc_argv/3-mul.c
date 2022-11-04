@@ -9,7 +9,7 @@
 int main(int argc, char *argv[])
 {
 	int result = 1;
-	
+
 	if (argc == 3)
 	{
 		result = (ation(argv[1]) * ation(argv[2]));
