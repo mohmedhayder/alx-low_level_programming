@@ -35,5 +35,7 @@ char *_strdup(char *str)
 
 int main(void)
 {
-	return (_strdup('hello'));
+	char res;
+	res = _strdup('hello');
+	return (0);
 }
