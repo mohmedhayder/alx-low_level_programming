@@ -34,9 +34,9 @@ char *_strdup(char *str)
 	return (cpy);
 }
 
-int main(void)
-{
-	char *res;
-	res = _strdup("hello");
-	return (0);
-}
+// int main(void)
+// {
+// 	char *res;
+// 	res = _strdup("hello");
+// 	return (0);
+// }
