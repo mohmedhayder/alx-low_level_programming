@@ -32,3 +32,8 @@ char *_strdup(char *str)
 	cpy[len] = '\0';
 	return (cpy);
 }
+
+int main(void)
+{
+	return (_strdup('hello'));
+}
