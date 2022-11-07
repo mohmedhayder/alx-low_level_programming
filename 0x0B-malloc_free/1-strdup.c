@@ -33,10 +33,3 @@ char *_strdup(char *str)
 	free(cpy);
 	return (cpy);
 }
-
-// int main(void)
-// {
-// 	char *res;
-// 	res = _strdup("hello");
-// 	return (0);
-// }
