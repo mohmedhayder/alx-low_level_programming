@@ -59,6 +59,6 @@ int len(char *str)
 		{
 			len++;
 		}
-		return (len);
 	}
+	return (len);
 }
