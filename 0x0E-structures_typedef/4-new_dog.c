@@ -8,9 +8,11 @@
 int _strlen(char *str)
 {
 	int len = 0;
+
 	while (str)
-	len++;
-	
+	{
+		len++;
+	}
 	return (len);
 }
 
@@ -44,6 +46,7 @@ char *_strcopy(char *dest, char *src)
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *doggo;
+
 	if (name == NULL || age < 0 || owner == NULL)
 	{
 		return (NULL);
