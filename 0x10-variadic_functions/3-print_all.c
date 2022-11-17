@@ -7,7 +7,7 @@
 void print_char(va_list arg)
 {
 	char letter;
-	
+
 	letter = va_arg(arg, int);
 	printf("%c", letter);
 }
@@ -20,8 +20,8 @@ void print_char(va_list arg)
 void print_int(va_list arg)
 {
 	int num;
+
 	num = va_arg(arg, int);
-	
 	printf("%d", num);
 }
 
@@ -46,8 +46,8 @@ void print_float(va_list arg)
 void print_string(va_list arg)
 {
 	char *str;
-	str = va_arg(arg, char *);
 
+	str = va_arg(arg, char *);
 	if (str == NULL)
 	{
 		printf("(nil)");
