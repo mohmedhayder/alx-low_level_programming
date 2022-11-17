@@ -7,6 +7,8 @@
 
 /**
  * struct printer - discripsiont struct
+ * @symbol: argument
+ * @print: argument
 */
 typedef struct printer
 {
